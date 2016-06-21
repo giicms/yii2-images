@@ -1,0 +1,17 @@
+{    
+    "name": "giicms/yii2-images",
+    "description": "Yii2 Images",
+    "homepage": "https://github.com/giicms/yii2-images",
+    "keywords": ["yii2","images"],
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "giicms\\images\\": ""
+        }
+    }
+}
